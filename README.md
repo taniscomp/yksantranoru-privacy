@@ -27,6 +27,10 @@ Uygulama, sizinle ilgili kişisel verileri kendi sunucularımızda **toplamaz ve
 ### d) Bildirimler
 - Uygulama, çalışma hatırlatıcısı ve zamanlayıcı için **yerel bildirimler** gönderir. Bu bildirimler cihazınızda oluşturulur ve herhangi bir kişisel veri toplamaz.
 
+### e) Analiz (Google Analytics for Firebase)
+- Uygulamanın nasıl kullanıldığını anlamak ve geliştirmek amacıyla **Google Analytics for Firebase** hizmetini kullanırız. Bu hizmet; açılan ekranlar, oturum süresi, cihaz türü, işletim sistemi ve yaklaşık konum (ülke/bölge) gibi **anonim kullanım ve cihaz verilerini** toplayabilir.
+- Bu veriler kimliğinizi tek başına belirlemek için kullanılmaz ve toplu (istatistiksel) olarak değerlendirilir. İşlenmesi Google'ın [gizlilik politikası](https://policies.google.com/privacy) ve [Firebase gizlilik ilkeleri](https://firebase.google.com/support/privacy) kapsamındadır.
+
 ## 2. İzinler ve Kullanım Amaçları
 - **Bildirim izni** – çalışma hatırlatıcıları ve zamanlayıcı bildirimleri için.
 - **Tam zamanlı alarm / yeniden başlatma** – bildirimlerin doğru zamanda ve cihaz yeniden başladıktan sonra da çalışması için.
@@ -37,6 +41,7 @@ Uygulama, sizinle ilgili kişisel verileri kendi sunucularımızda **toplamaz ve
 Verilerinizi satmıyoruz. Veri yalnızca aşağıdaki hizmetler aracılığıyla, ilgili işlevi yerine getirmek için işlenir:
 - **Google AdMob** – reklam gösterimi ([gizlilik politikası](https://policies.google.com/privacy)).
 - **Google Sign-In / Google Drive** – isteğe bağlı yedekleme ([gizlilik politikası](https://policies.google.com/privacy)).
+- **Google Analytics for Firebase** – anonim kullanım analizi ([Firebase gizlilik ilkeleri](https://firebase.google.com/support/privacy)).
 
 ## 4. Çocukların Gizliliği
 Uygulama lise ve üniversite sınavına (YKS) hazırlanan öğrencilere yöneliktir. Bilerek 13 yaş altı çocuklardan kişisel veri toplamayız. 13 yaş altı bir çocuğa ait veri toplandığını fark edersek, sileriz.
@@ -52,7 +57,7 @@ Uygulama lise ve üniversite sınavına (YKS) hazırlanan öğrencilere yönelik
 Bu gizlilik politikasını zaman zaman güncelleyebiliriz. Değişiklikler bu sayfada yayımlandığı anda geçerli olur ve "Son güncelleme" tarihi yenilenir.
 
 ## 8. İletişim
-Gizlilikle ilgili sorularınız için: alpkaantanis@gmail.com
+Gizlilikle ilgili sorularınız için: taniscomp@gmail.com
 
 ---
 © 2026 Tanis Comp – YKS Antrenörü
